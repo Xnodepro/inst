@@ -12,6 +12,9 @@ namespace ConsoleApp1
         {
 
             System.Console.WriteLine("first");
+            System.Console.WriteLine("first");
+            System.Console.WriteLine("first");
+            System.Console.WriteLine("first");
         }
     }
 }
